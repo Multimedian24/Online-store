@@ -1,0 +1,14 @@
+2024-03-29T16:03:19.295Z - Updating submodules.
+2024-03-29T16:03:19.327Z - Preparing deployment for commit id 'aa2051512d'.
+2024-03-29T16:03:19.373Z - Generating deployment script.
+2024-03-29T16:03:19.389Z - Using cached version of deployment script (command: 'azure -y --no-dot-deployment -r "C:\local\Temp\zipdeploy\extracted" -o "C:\home\site\deployments\tools" --basic --sitePath "C:\local\Temp\zipdeploy\extracted"').
+2024-03-29T16:03:19.420Z - Running deployment command...
+2024-03-29T16:03:19.436Z - Command: "C:\home\site\deployments\tools\deploy.cmd"
+2024-03-29T16:03:19.577Z - Handling Basic Web Site deployment.
+2024-03-29T16:03:19.702Z - Creating app_offline.htm
+2024-03-29T16:03:19.702Z - KuduSync.NET from: 'C:\local\Temp\zipdeploy\extracted' to: 'C:\home\site\wwwroot'
+2024-03-29T16:03:19.717Z - Deleting app_offline.htm
+2024-03-29T16:03:19.717Z - Finished successfully.
+2024-03-29T16:03:19.748Z - Running post deployment command(s)...
+2024-03-29T16:03:19.780Z - Triggering recycle (preview mode disabled).
+2024-03-29T16:03:19.795Z - Deployment successful.
