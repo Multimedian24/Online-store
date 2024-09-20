@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2971d432-e5c8-48b1-8c7a-cae032dfc409/resourceGroups/NokuthulaMbonane/providers/Microsoft.Web/sites/220383448",
+    "appService.deploySubpath": "build"
+}
